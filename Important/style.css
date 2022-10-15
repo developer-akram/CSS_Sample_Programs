@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    padding: 4px;
+    border: 1px solid red;
+}
+.for-h{
+    display: inline-block;
+    margin: 10px auto;
+}
+.for-a{
+    display: inline-block;
+    margin: 10px auto;
+}
+.for-a a{
+    text-decoration: none;
+    font-size: 30px;
+    color: red;
+    background-color: aqua;
+}

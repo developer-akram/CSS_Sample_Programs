@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #DEE2EE;
+}
+
+.blue {
+    background-color: #4C66A4;
+    height: 88px;
+}
+
+#left1 {
+    float: left;
+}
+
+.login {
+    width: 42%;
+    float: right;
+    color: white;
+    font-family: tahoma;
+}
+
+.signup {
+    height: 500px;
+    font-family: Arial;
+    width: 43%;
+    float: right;
+}
+
+.first {
+    padding: 0;
+    font-size: 13px;
+}
+
+.first input {
+    border: 1px solid blue;
+    padding: 3px;
+}
+
+#btn {
+    background-color: #084B8A;
+    color: white;
+}
+
+.first a {
+    color: rgba(255, 255, 255, 0.521);
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    padding: 10px 0px;
+    font-family: Arial;
+    font-size: 36px;
+}
+
+.td {
+    padding-left: 10px;
+}
+
+#free {
+    padding-bottom: 10px;
+    font-size: 18px;
+    font-family: Arial;
+}
+#day,#month,#year{
+    padding: 4px;
+    float: left;
+}
+.second p{
+    font-size: 18px;
+    color: #2E2E2E;
+    font-family: arial;
+    margin: 18px 0px;
+}
+#fname,
+#sname,
+#mobile,
+#password {
+    height: 40px;
+    border-radius: 5px;
+    padding-left: 10px;
+    margin: 4px 0px;
+    font-size: 18px;
+    border: 1px solid #BDBDBD;
+    font-family:sans-serif ; 
+}
+#mobile,#password{
+    width: 402px;
+}
+.second #why{
+width: 150px;
+color: #045FB4;
+text-decoration: none;
+font-size: 11px;
+display: inline-block;
+vertical-align: middle;
+line-height: 15px;
+}
+#sname {
+    margin-left: 6px;
+}
+.radio{
+    padding: 8px 0px;
+    font-family: sans-serif;
+}
+#by{
+    color: #424242;
+    font-size: 11px;
+}
+#create{
+    width: 205px;
+height: 45px;
+text-align: center;
+font-size: 19px;
+margin-top: 10px;
+margin-bottom: 10px;
+font-family: 'Freight Sans Bold', helvetica, arial, sans-serif !important;
+font-weight: bold !important;
+background: linear-gradient(#67ae55, #578843);
+  background-color: rgba(0, 0, 0, 0);
+background-color: #69a74e;
+box-shadow: inset 0 1px 1px #a4e388;
+border-color: #3b6e22 #3b6e22 #2c5115;
+border: 1px solid;
+border-radius: 5px;
+color: #fff;
+cursor: pointer;
+display: inline-block;
+position: relative;
+text-shadow: 0 1px 2px rgba(0,0,0,.5);
+}
+#last{
+color: #424242;
+font-size: 13px;
+font-weight: bold;
+}
+label,#male,#other{
+    margin-left: 4px;
+}
